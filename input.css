@@ -1,0 +1,4 @@
+@tailwind base;        /* Inclui os estilos básicos do Tailwind */
+@tailwind components;  /* Inclui os componentes predefinidos do Tailwind */
+@tailwind utilities;   /* Inclui as utilidades CSS do Tailwind */
+
